@@ -48,3 +48,4 @@ Css: W3C css validator
 Conclusion:
 
 The Placement Management System streamlines job search, application management, and communication, enhancing efficiency and transparency. With its user-friendly interface and analytics-driven insights, it empowers users to make informed decisions and achieve successful placements, showcasing technology's transformative impact on recruitment processes.
+
