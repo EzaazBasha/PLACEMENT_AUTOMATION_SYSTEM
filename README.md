@@ -1,9 +1,16 @@
-[4/3/2024 12:06 PM] Ezaaz Basha: Introduction:
+MINI PROJECT-PLACEMENT MANAGEMENT SYSTEM 
+
+
+Introduction:
 
 The Placement Management System, built with PHP, streamlines the placement process for educational institutions, students, and companies. It facilitates efficient communication, job application management, and scheduling of placement activities. With tailored modules for students, companies, administrators, and analytics, the system ensures smooth coordination between stakeholders, enhancing transparency and optimizing the placement process.
-[4/3/2024 12:06 PM] Ezaaz Basha: Student Module: Profile Management enables updating personal info. Job Search allows students to explore job openings. Company Module: Job Posting feature advertises openings; Application Management handles incoming applications.
-[4/3/2024 12:06 PM] Ezaaz Basha: Admin Module: Dashboard provides system overview; User Management oversees accounts. Analytics Module: Tracks placement statistics and user engagement, offering insights to optimize processes and enhance decision-making.
-[4/3/2024 12:06 PM] Ezaaz Basha: How this mini project is useful
+
+Modules:
+
+Student Module: Profile Management enables updating personal info. Job Search allows students to explore job openings. Company Module: Job Posting feature advertises openings; Application Management handles incoming applications.
+Admin Module: Dashboard provides system overview; User Management oversees accounts. Analytics Module: Tracks placement statistics and user engagement, offering insights to optimize processes and enhance decision-making.
+
+How this mini project is useful:
 
 1. Facilitates efficient job search for students.
 2. Simplifies application management for companies.
@@ -15,7 +22,8 @@ The Placement Management System, built with PHP, streamlines the placement proce
 8. Automates routine tasks for administrators.
 9. Improves placement outcomes.
 10. Boosts overall efficiency in the placement process.
-[4/3/2024 12:06 PM] Ezaaz Basha: References:
+    
+References:
 Books reffered: 
 "PHP and MySQL Web Development" by Luke Welling and Laura Thomson
 
@@ -34,6 +42,7 @@ Coding standards:
 Php: PSR Standards 
 Html: W3C html validator 
 Css: W3C css validator
-[4/3/2024 12:06 PM] Ezaaz Basha: Conclusion:
+
+Conclusion:
 
 The Placement Management System streamlines job search, application management, and communication, enhancing efficiency and transparency. With its user-friendly interface and analytics-driven insights, it empowers users to make informed decisions and achieve successful placements, showcasing technology's transformative impact on recruitment processes.
