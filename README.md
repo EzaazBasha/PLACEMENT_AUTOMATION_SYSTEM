@@ -7,8 +7,10 @@ The Placement Management System, built with PHP, streamlines the placement proce
 
 Modules:
 
-Student Module: Profile Management enables updating personal info. Job Search allows students to explore job openings. Company Module: Job Posting feature advertises openings; Application Management handles incoming applications.
-Admin Module: Dashboard provides system overview; User Management oversees accounts. Analytics Module: Tracks placement statistics and user engagement, offering insights to optimize processes and enhance decision-making.
+Student Module: Profile Management enables updating personal info. Job Search allows students to explore job openings. 
+Company Module: Job Posting feature advertises openings; Application Management handles incoming applications.
+Admin Module: Dashboard provides system overview; User Management oversees accounts. 
+Analytics Module: Tracks placement statistics and user engagement, offering insights to optimize processes and enhance decision-making.
 
 How this mini project is useful:
 
